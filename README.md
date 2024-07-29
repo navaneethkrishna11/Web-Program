@@ -1,7 +1,9 @@
 # WEB PROGRAMMING (CST 463)
 <h2>Tutor : Prof.Smitha Jacob</h2>
 <h2>Institute : St.Joseph's college of Engineering and Technology palai</h2>
-<P>This repository consists of basics concepts in Web Development .</P>
+<P>This repository consists of basics concepts in Web Development .
+Hosted link : https://navaneethkrishna11.github.io/Web-Program/index.html
+</P>
 <p>
   Web development is the process of creating and maintaining websites. It encompasses various disciplines and technologies to build functional, visually appealing, and user-friendly websites and web applications. Key technologies involved in web development include:
 
